@@ -1,0 +1,18 @@
+[I 21:17:52.906 NotebookApp] The port 8888 is already in use, trying another port.
+[I 21:17:52.907 NotebookApp] The port 8889 is already in use, trying another port.
+[I 21:17:52.907 NotebookApp] The port 8890 is already in use, trying another port.
+[I 21:17:52.907 NotebookApp] The port 8891 is already in use, trying another port.
+[I 21:17:52.908 NotebookApp] The port 8892 is already in use, trying another port.
+[I 21:17:52.908 NotebookApp] Serving notebooks from local directory: /Users/emilianojimenezguadarrama/repos/Who-do-I-bet-on-Insights-from-machine-learning-into-French-Trot-horse-racing
+[I 21:17:52.908 NotebookApp] Jupyter Notebook 6.5.4 is running at:
+[I 21:17:52.908 NotebookApp] http://localhost:8862/?token=bc53c36e58292ceac842a57a36f71506259b16a3ef02c17c
+[I 21:17:52.908 NotebookApp]  or http://127.0.0.1:8862/?token=bc53c36e58292ceac842a57a36f71506259b16a3ef02c17c
+[I 21:17:52.908 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 21:17:52.913 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///Users/emilianojimenezguadarrama/Library/Jupyter/runtime/nbserver-73797-open.html
+    Or copy and paste one of these URLs:
+        http://localhost:8862/?token=bc53c36e58292ceac842a57a36f71506259b16a3ef02c17c
+     or http://127.0.0.1:8862/?token=bc53c36e58292ceac842a57a36f71506259b16a3ef02c17c
+[I 21:20:17.888 NotebookApp] Saving file at /README.md
