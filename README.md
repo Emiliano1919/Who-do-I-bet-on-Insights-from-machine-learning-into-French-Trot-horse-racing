@@ -1,4 +1,6 @@
 # Who-do-I-bet-on-Insights-from-machine-learning-into-French-Trot-horse-racing
+
+**It's important to note that we cannot present the dataset that was provided to us in here, due to academic restrictions.**
 By Kevin Tawadros and Emiliano Jimenez Guadarrama, for the 2023 French Trot Horse Racing Competition of CANSSI Ontario.
 
 
